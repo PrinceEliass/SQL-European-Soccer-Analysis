@@ -23,12 +23,6 @@
 pgadmin.log
 *.log
 
-# Python virtual environment
-venv/
-__pycache__/
-*.pyc
-.pytest_cache/
-
 # OS generated files
 .DS_Store
 Thumbs.db
