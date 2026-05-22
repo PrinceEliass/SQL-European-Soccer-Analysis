@@ -1,1 +1,49 @@
+# =============================================
+# .gitignore for SQL Portfolio Project
+# =============================================
 
+# Database files
+*.sqlite
+*.db
+*.sql.backup
+*.bak
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Large files
+*.zip
+*.tar
+*.gz
+
+# Environment and configuration
+.env
+pgadmin.log
+*.log
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Screenshots - keep only small ones
+# screenshots/*.png
+# You can keep screenshots, but exclude very large ones if needed
+
+# Temporary files
+*.tmp
+temp/
+temporary/
