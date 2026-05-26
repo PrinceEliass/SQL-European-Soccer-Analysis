@@ -23,11 +23,11 @@ This project demonstrates advanced SQL skills through comprehensive analysis of 
 |------|-------------|
 | `01_basic_exploration.sql` | Basic dataset overview and statistics |
 | `02_player_performance.sql` | Overall player skill analysis |
-| `03_top_players_ranking.sql` | Top 10 players by overall rating |
+| `03_top_players.sql` | Top 10 players by overall rating |
 | `04_player_development.sql` | Player improvement and career growth analysis |
 | `05_team_analysis.sql` | Team playing style comparison |
-| `06_player_loyalty_churn.sql` | Player loyalty and team stability |
-| `07_advanced_window_functions.sql` | Advanced analytics with Window Functions |
+| `06_loyalty_churn.sql` | Player loyalty and team stability |
+| `07_advanced_analytics.sql` | Advanced analytics with Window Functions |
 | `08_league_comparison.sql` | League quality and player level comparison |
 
 ## Key Highlights & Skills Demonstrated
